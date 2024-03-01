@@ -1,1 +1,2 @@
-# admin-dashboard-project
+This project is built using CSS Grid for practice purposes. In addition, more CSS techniques and methods are used in order to achieve the full layout of the page. 
+Main focus is the CSS, functionality is not the purpose of this project. 
